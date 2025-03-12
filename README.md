@@ -58,8 +58,6 @@ Total Visitors :
 <img align="left" src="https://github.com/dhruvlife/musico" alt="dhruvlife/musico loading...">
 
 
----
-
 
 ## 🏗 Installation Guide  
 
