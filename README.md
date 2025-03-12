@@ -53,16 +53,16 @@ This **Flutter-based Music Player App** is built with:
 
 ---
 
+Total Visitors : 
+
+<img align="left" src="https://profile-counter.glitch.me/dhruvlife/count.svg" alt="Profile Views">
+---
+
+
 ## 🏗 Installation Guide  
 
 1️⃣ **Clone the Repository**  
 ```sh
 git clone https://github.com/dhruvlife/musico.git
 
----
 
-
-Total Visitors : 
-
-
-<img align="left" src="https://profile-counter.glitch.me/dhruvlife/count.svg" alt="Profile Views">
