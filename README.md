@@ -56,6 +56,7 @@ This **Flutter-based Music Player App** is built with:
 Total Visitors : 
 
 <img align="left" src="https://github.com/dhruvlife/musico" alt="Profile Views">
+
 ---
 
 
