@@ -57,4 +57,4 @@ This **Flutter-based Music Player App** is built with:
 
 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/dhruvlife/musico-app.git
+git clone https://github.com/dhruvlife/musico.git
