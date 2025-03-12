@@ -59,6 +59,9 @@ Total Visitors :
 
 
 
+---
+
+
 ## 🏗 Installation Guide  
 
 1️⃣ **Clone the Repository**  
